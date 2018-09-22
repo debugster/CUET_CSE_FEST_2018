@@ -102,7 +102,7 @@ ull countSecondsFrom1899(int date, int mon, int year, int hh, int mm, int ss, in
 
 int main()
 {
-    freopen("in.txt", "r", stdin);
+    //freopen("in.txt", "r", stdin);
     //freopen("out.txt", "w", stdout);
 
     ios::sync_with_stdio(false);
